@@ -1,2 +1,3 @@
-# SANAS
-23F BMED438 Final Project : Shape Analysis of Neuroanatomical Structures
+# KU23F BMED438 : Biomedical AI2
+
+## Final Project : Shape Analysis of Neuroanatomical Structures
